@@ -11,7 +11,6 @@ object MainObject{
 }
 
 
-//
 //class Student(id:Int, name:String){
 //    var age:Int = 0
 //    def showDetails(){
