@@ -183,7 +183,7 @@ object TS2Date {
 
 object first{
   def main(args: Array[String]): Unit = {
-    val conf = new SparkConf().setMaster("local[*]").setAppName("test_data")
+    val conf = new SparkConf().setMaster("local[*]").setAppName("first")
     val sc = new SparkContext(conf)
     val sqlContext = new SQLContext(sc)
 
