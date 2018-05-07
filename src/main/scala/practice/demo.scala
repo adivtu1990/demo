@@ -1,3 +1,4 @@
+/*
 class Student(id:Int, name:String){
   def show(){
     println(id+" "+name)
@@ -10,7 +11,7 @@ object MainObject{
   }
 }
 
-
+*/
 //class Student(id:Int, name:String){
 //    var age:Int = 0
 //    def showDetails(){
